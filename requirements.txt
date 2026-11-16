@@ -1,0 +1,4 @@
+# No heavy dependencies. Pure Python.
+# Optional: if you want to upgrade later
+# transformers
+# torch
