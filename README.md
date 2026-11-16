@@ -43,4 +43,4 @@ python `meme_caption_generator.py` + **`AI_Meme_Caption_Generator.ipynb`**
 Shows you can build fun, user-facing AI tools. Recruiters remember creative projects.
 
 ## Author
-Built for AI Intern portfolio.
+BUILD BY MUHAMMAD ALI HASSAN.
